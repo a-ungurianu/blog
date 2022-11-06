@@ -1,6 +1,5 @@
-baseURL = 'http://web1.ungurianu.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Alex's Just in Tech"
 theme = "archie"
 
 # Code Highlight
