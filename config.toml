@@ -25,3 +25,8 @@ url = "https://github.com/a-ungurianu"
 name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/ungurianu_a/"
+
+[[params.social]]
+name = "Mastodon"
+icon = "mastodon"
+url = "https://mastodon.social/@alexu"
